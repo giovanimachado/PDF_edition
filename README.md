@@ -11,4 +11,4 @@
 
 ## Office Tools
 
-1. [Email_list_to_table.ipynb](https://github.com/giovanimachado/python-daily-tools/blob/master/office-tools/email_list_to_table.ipynb)
+1. [Email_list_to_table](https://github.com/giovanimachado/python-daily-tools/blob/master/office-tools/email_list_to_table.ipynb)
